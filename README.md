@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+뭉탱이로 있다가 유리게슝
+
 <!--
 **Luxthelee/Luxthelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
